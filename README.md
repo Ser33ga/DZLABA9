@@ -36,6 +36,8 @@
 
 ![Блок-схема](Lab9_AlgSchema.svg)
 
+*Исходник схемы для draw.io: [Lab9_AlgSchema.drawio](Lab9_AlgSchema.drawio)*
+
 ---
 
 ## 2. Реализация программы
